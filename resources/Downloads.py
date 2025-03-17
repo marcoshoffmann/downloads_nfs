@@ -80,7 +80,7 @@ class Downloads:
                                                                         teste0.click();
                                                                     }                                                                    
                                                                     let teste1 = document.getElementById("account_key");
-                                                                    teste1.value = "aec1b68faa12cc7b9e1c0b560a0f7bc0"; 
+                                                                    teste1.value = "00000000000000000000000000000000000"; 
                                                                     // Disparar eventos para que o site reconheça a mudança
                                                                     teste1.dispatchEvent(new Event('input', { bubbles: true }));
                                                                     teste1.dispatchEvent(new Event('change', { bubbles: true }));""")

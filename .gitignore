@@ -1,0 +1,4 @@
+# IGNORAR OS SEGUINTES ARQUIVOS
+./*__pycache__*
+./*.pyc
+./*.log
